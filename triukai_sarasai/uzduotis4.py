@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Sukurti programą, kuri:
 #Turėtų klasę Zmogus, su savybėmis vardas ir amzius
 #Klasėje būtų repr metodas, kuris atvaizduotų vardą ir amžių
@@ -35,7 +34,6 @@ sarasas = [d1, d2, d3]
 surusiuotas = sorted(sarasas, key=lambda e: e.amzius, reverse=True)
 print(surusiuotas)
 
-=======
 #Sukurti programą, kuri:
 #Turėtų klasę Zmogus, su savybėmis vardas ir amzius
 #Klasėje būtų repr metodas, kuris atvaizduotų vardą ir amžių
@@ -72,4 +70,3 @@ sarasas = [d1, d2, d3]
 surusiuotas = sorted(sarasas, key=lambda e: e.amzius, reverse=True)
 print(surusiuotas)
 
->>>>>>> 65fbaf748aab15afb7c2ef833ec209f0f4e61b66
